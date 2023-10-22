@@ -8,3 +8,7 @@ For this branch I want to save the text user input for later display:
 - Add an event to a hour,
 - Click the save button,
 - The text should be saved. Separated by hour(id)
+
+# Screenshot
+## Feature/SaveBtn
+![Alt text](/Assets/savebtn.png)
